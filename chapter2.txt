@@ -1,0 +1,10 @@
+Second Chapter after GIT initialization
+git init- this starts the git
+git status - gives file status
+need to send these files from the directory to staging area if we want to track changes
+that can be done by
+git add file name or if you have many files git add .
+git commit -m "Message- always in present tense"
+ message log is required for us to know what changed we did here
+
+ git log - provides the logs
